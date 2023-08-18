@@ -1,6 +1,8 @@
 # QA-System
 The repository is for a Question and Answer System using Google's Vertex AI PaLM, LangChain, and Streamlit
 
+## QA-System workflow
+
 To build a Question and Answering (QA) application that answers user questions based on the information available on a webpage, and also includes text summarization, pre-written Twitter tweets, and a LinkedIn post, you can follow the following workflow:
 
 1. Set up the development environment:

@@ -1,5 +1,5 @@
-# QA-System (under construction)
-The repository is for a Question and Answer System using Google's Vertex AI PaLM, LangChain, and Streamlit
+# ARQA (under construction)
+The repository is for an Arabic Question and Answer System using Google's Vertex AI PaLM, LangChain, and Streamlit
 
 ## QA-System workflow
 
